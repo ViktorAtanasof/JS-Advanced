@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 # JS Advanced course
 
 The "JS Advanced" course, gives us a deep knowledge of the **JavaScript** language, such as the basics of **syntax**, working with **arrays**, **matrices**, **objects**, **classes** and writing **functions**. Students study more complex concepts like **Function Context**, **Explicit Binding**, **Event Loop**. The course develops algorithmic thinking. After successful completion of this course, students are able to work with the **DOM** tree, do manipulations on it and work with **"Events"**. Students explore functionality and **OOP** relevant to **JavaScript** programming, studying concepts such as **Inheritance**, **Object Composition**, and **Prototype Chaining**.
@@ -77,3 +79,5 @@ The "JS Advanced" course, gives us a deep knowledge of the **JavaScript** langua
 - Inheritance
 - Classical Inheritance
 - Prototype Chain
+
+(<a href="#top">back to top</a>)
